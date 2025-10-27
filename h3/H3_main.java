@@ -21,5 +21,6 @@ public static void main(String[] args) {
     else{
         k = -10;
     }
+    System.out.println(k);
 }
 }
